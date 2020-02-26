@@ -11,13 +11,12 @@ import UIKit
 class ResultViewController: UIViewController {
     
     @IBOutlet weak var resultText: UILabel!
-    var result : String = ""
+    var result : String?
 
     override func viewDidLoad() {
         super.viewDidLoad()
-       // print("\(result) Hellow Jani")
+        resultText?.text = result!
         
-        resultText?.text = "\(result) Hellow"
 
 
         // Do any additional setup after loading the view.
