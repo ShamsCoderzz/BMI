@@ -10,12 +10,20 @@ import UIKit
 
 class ResultViewController: UIViewController {
     
-    @IBOutlet weak var resultText: UILabel!
+   @IBOutlet weak var resultText: UILabel!
+   @IBOutlet weak var adviceText: UILabel!
+
     var result : String?
+    var advice : String?
+    var color : UIColor?
+
 
     override func viewDidLoad() {
         super.viewDidLoad()
         resultText?.text = result!
+        adviceText?.text = advice!
+        view.backgroundColor = color!
+        
         
 
 
@@ -24,7 +32,6 @@ class ResultViewController: UIViewController {
     
     @IBAction func recalculateBtn(_ sender: UIButton) {
         self.dismiss(animated: true, completion: nil)
-        
     }
     
     /*

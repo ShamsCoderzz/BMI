@@ -7,141 +7,33 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "C3CB0760-F6CA-404E-A1F2-F5FBF86367C8"
+            uuid = "9F615D00-A36F-4ACD-9E2C-77BF12B97868"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "BMI Calculator/Controllers/ViewController.swift"
+            filePath = "../../../../var/folders/w_/s8nkk2vx35zf_7bkkrh5ldwc0000gn/T/54181A0A-3274-4551-8F4D-4D186E6734F8/ResultViewController.swift/BMI Calculator/Controllers/ResultViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "41"
-            endingLineNumber = "41"
-            landmarkName = "calculateBMI(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "53E6EA39-64C4-4755-911B-76BC49CA4396"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BMI Calculator/Controllers/ResultViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "14"
-            endingLineNumber = "14"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
             landmarkName = "ResultViewController"
             landmarkType = "3">
-            <Locations>
-               <Location
-                  uuid = "53E6EA39-64C4-4755-911B-76BC49CA4396 - f898c5207ca2e262"
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BMI_Calculator.ResultViewController.result.getter : Swift.Optional&lt;Swift.String&gt;"
-                  moduleName = "BMI Calculator"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/Data/IOS/BMI-Calculator/BMI%20Calculator/Controllers/ResultViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "131">
-               </Location>
-               <Location
-                  uuid = "53E6EA39-64C4-4755-911B-76BC49CA4396 - 95747c9bf939327e"
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BMI_Calculator.ResultViewController.result.setter : Swift.Optional&lt;Swift.String&gt;"
-                  moduleName = "BMI Calculator"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/Data/IOS/BMI-Calculator/BMI%20Calculator/Controllers/ResultViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "153">
-               </Location>
-               <Location
-                  uuid = "53E6EA39-64C4-4755-911B-76BC49CA4396 - d7479354fac90e6f"
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BMI_Calculator.ResultViewController.result.modify : Swift.Optional&lt;Swift.String&gt;"
-                  moduleName = "BMI Calculator"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/Data/IOS/BMI-Calculator/BMI%20Calculator/Controllers/ResultViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0"
-                  offsetFromSymbolStart = "18">
-               </Location>
-               <Location
-                  uuid = "53E6EA39-64C4-4755-911B-76BC49CA4396 - b93c6054b7956c06"
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BMI_Calculator.ResultViewController.result.modify : Swift.Optional&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
-                  moduleName = "BMI Calculator"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/Data/IOS/BMI-Calculator/BMI%20Calculator/Controllers/ResultViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "4">
-               </Location>
-               <Location
-                  uuid = "53E6EA39-64C4-4755-911B-76BC49CA4396 - 963d826fddb6fee7"
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BMI_Calculator.ResultViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BMI_Calculator.ResultViewController"
-                  moduleName = "BMI Calculator"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/Data/IOS/BMI-Calculator/BMI%20Calculator/Controllers/ResultViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "258">
-               </Location>
-               <Location
-                  uuid = "53E6EA39-64C4-4755-911B-76BC49CA4396 - 893064142a81213f"
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BMI_Calculator.ResultViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BMI_Calculator.ResultViewController&gt;"
-                  moduleName = "BMI Calculator"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/Data/IOS/BMI-Calculator/BMI%20Calculator/Controllers/ResultViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "184">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "DD9F4088-EC6E-479C-86D1-B0DE3B239E28"
+            uuid = "D2D1E4B8-ED5B-4242-BB58-B41B4533D9E4"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "BMI Calculator/Controllers/ViewController.swift"
+            filePath = "../../../../var/folders/w_/s8nkk2vx35zf_7bkkrh5ldwc0000gn/T/4FF7152D-14D9-4296-B592-CBCE6DC4BE41/ResultViewController.swift/BMI Calculator/Controllers/ResultViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "52"
-            endingLineNumber = "52"
-            landmarkName = "prepare(for:sender:)"
-            landmarkType = "7">
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "ResultViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
